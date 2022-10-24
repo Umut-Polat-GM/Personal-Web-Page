@@ -4,7 +4,7 @@ This is my first web page publish maybe it have lost of deficiency. I am open to
 
  ## Brief Summary
 
-* HTML ,CSS, Bootstrap vs JavaScript kullanıldı.
+* HTML ,CSS, Bootstrap vs JavaScript used.
 * FileZilla and FTP learned.
 * Hosting, subDomain and DomainName are free
 
