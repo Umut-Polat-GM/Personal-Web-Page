@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 /* header start */
 header.backImage {
-    background-image: url("../../img/header/web-bg-img.jpg");
+    background-image: url("../../img/header/backgraund.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: center center;
+    background-position: center;
     background-size: cover;
 }
 
@@ -23,9 +23,16 @@ header.backImage .backImage-heading {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .gif-size{
-    width: 180px;
+    width: 150px;
     height: auto;
 }
+.underline {
+    height: 0.25rem;
+    width: 5rem;
+    background: #f0ad4e;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 /* navbar start */
 #mainNavbar {
@@ -35,7 +42,6 @@ header.backImage .backImage-heading {
 }
 
 #mainNavbar .navbar-brand {
-    color: #de3545;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 700;
     letter-spacing: 0.063em;
@@ -60,7 +66,7 @@ header.backImage .backImage-heading {
 
 #mainNavbar .navbar-nav .nav-item .nav-link.active,
 #mainNavbar .navbar-nav .nav-item .nav-link:hover {
-    color: #fa836a;
+    color: #f0ad4e;
 }
 .img-resize{
     width: 250px;
